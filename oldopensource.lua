@@ -134,7 +134,7 @@ local fireAllCoroutine
 
 
 
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/ionlyusegithubformcmods/1-Line-Scripts/main/Mobile%20Friendly%20Orion')))()
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/BlizTBr/scripts/main/Orion%20X')))()
 OrionLib:MakeNotification({
 Name = "Welcome to Cosmic Hub!",
 Content = "wink wink",
